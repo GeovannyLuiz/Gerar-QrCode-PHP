@@ -22,7 +22,6 @@ BASTA BAIXAR O PROJETO OU FAZER UM CLONE E EXECUTAR.
 
 🛠️ Construído com
 - HTML/CSS
-- BOOTSTRAP5
 - JQUERY
 - PHP
 PARA INSTALAR O XAMPP BASTA ACESSAR https://www.apachefriends.org/pt_br/download.html
