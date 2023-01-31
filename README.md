@@ -24,7 +24,7 @@ BASTA BAIXAR O PROJETO OU FAZER UM CLONE E EXECUTAR.
 - HTML/CSS
 - JQUERY
 - PHP
-PARA INSTALAR O XAMPP BASTA ACESSAR https://www.apachefriends.org/pt_br/download.html
+********PARA INSTALAR O XAMPP BASTA ACESSAR https://www.apachefriends.org/pt_br/download.html*********
 
 ## 🎁 Expressões de gratidão
 
