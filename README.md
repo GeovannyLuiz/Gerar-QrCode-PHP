@@ -1,4 +1,4 @@
-# Gerar QrCode com GoogleApi + PHP
+# Gerar QrCode com GoogleApi + PHP (com Digito Verificador "Mod11") [atualizado]
 
 Este é um pequeno exemplo de como é simples gerar um QrCode utilizando a Api do Google, HTML/CSS, Jquery e PHP.
 
